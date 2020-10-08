@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to our Workshop on Automotive XR Applications
 
-You can use the [editor on GitHub](https://github.com/mint-hagenberg/mum2020-automotive-mixed-reality-workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## News
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 2020-10-06: Workshop proposal accepted at MUM 2020 - the 19th International Conference on Mobile and Ubiquitous Multimedia
 
-### Markdown
+## Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With the increasing development of mixed reality (MR), the number of its purposes and applications in vehicles increases. Mixed reality may help to increase road safety, allow drivers to perform non- driving related tasks (NDRTs), and enhance passenger experiences. MR can also be helpful in the transition towards automated driving. However, there are still a number of challenges with the use of MR when applied in vehicles, and also several human factors issues need to be solved. Additionally, virtual reality (VR) has the potential to simulate mixed reality applications for HCI research, such as pedestrian and passenger experiences. In a schedule tailored to fit the requirements of a hybrid presence and online event, participants will define relevant user stories and use cases and elaborate experimental designs with measurable outcomes to contribute to the research roadmap.
 
-```markdown
-Syntax highlighted code block
+## Workshop Details
 
-# Header 1
-## Header 2
-### Header 3
+Attendance: In-person and virtual
 
-- Bulleted
-- List
+Duration: Half-day (approx. 4 hours)
 
-1. Numbered
-2. List
+Schedule: TBD
 
-**Bold** and _Italic_ and `Code` text
+## Participate
+Every MUM 2020 participant is invited to participate in the workshop sessions. Please make sure to register via the official conference registration system.
 
-[Link](url) and ![Image](src)
-```
+## Organizers
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Andreas Riegler: PhD candidate and researcher at the research group Mobile Interactive Systems of the University of Applied Sciences Upper Austria. His research interests include Automotive Computing, Mobile Computing and Human-Computer Interaction. He is currently investigating the use of Augmented and Virtual Reality for Intelligent Vehicles with focus on Windshield Displays. 
+- Andreas Riener: Professor for Human-Machine Interaction and Virtual Reality at Technische Hochschule Ingolstadt (THI), Germany with co-appointment at CARISSMA (Center of Automotive Research on Integrated Safety Systems and Measurement Area). He is further leading the human-computer interaction group (HCIG) at THI. His research interests include driving ergonomics, driver state estimation from physiological measures, human factors in driver-vehicle interfaces as well as topics related to (over)trust, acceptance, and ethical issues in automated driving.
+- Clemens Holzmann: Professor at the School of Informatics, Communications and Media of the University of Applied Sciences Upper Austria. Since 2018, he is also vice president for IT of the University of Applied Sciences Upper Austria. His research interests include Mobile Computing and Human-Computer Interaction. ​​
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mint-hagenberg/mum2020-automotive-mixed-reality-workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Support or Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you need help or more details about this workshop, please contact Andreas Riegler at <andreas.riegler@fh-hagenberg.at>.
