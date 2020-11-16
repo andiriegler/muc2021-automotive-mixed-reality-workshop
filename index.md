@@ -2,6 +2,7 @@
 
 ## News
 
+- 2020-11-01: Workshop updated to virtual only participation
 - 2020-10-06: Workshop proposal accepted at MUM 2020 - the 19th International Conference on Mobile and Ubiquitous Multimedia
 
 ## Introduction
@@ -10,9 +11,11 @@ With the increasing development of mixed reality (MR), the number of its purpose
 
 ## Workshop Details
 
-Attendance: In-person and virtual
+Attendance: Virtual via Zoom and Miro
 
 Duration: Half-day (approx. 4 hours)
+
+Start: Sunday, November 22, 01:30pm CET
 
 Schedule: TBD
 
