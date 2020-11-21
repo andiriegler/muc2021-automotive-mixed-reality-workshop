@@ -2,6 +2,7 @@
 
 ## News
 
+- 2020-11-17: Registration: send an email to <andreas.riegler@fh-hagenberg.at>
 - 2020-11-01: Workshop updated to virtual only participation
 - 2020-10-06: Workshop proposal accepted at MUM 2020 - the 19th International Conference on Mobile and Ubiquitous Multimedia
 
@@ -17,10 +18,16 @@ Duration: Half-day (approx. 4 hours)
 
 Start: Sunday, November 22, 01:30pm CET
 
-Schedule: TBD
+Schedule:
+
+- HOUR 1: We will start off with introductions and then present key concepts in mixed reality in the context of automated driving.
+- HOURS 2 & 3: Brainstorming in groups. Participants will get to design AR/VR/MR applications by choosing from a multitude of options (e.g., AR + HUD + Pedestrian Safety). The outcome will be presented by each group followed by an engaging discussion.
+- HOUR 4: Participants will get to either develop more MR scenarios or use the existing ones to design user studies (e.g., how could this particular scenario be researched and validated?).
+- Wrap-up: We will share the findings and discuss the participants' workshop experience.
 
 ## Participate
 Every MUM 2020 participant is invited to participate in the workshop sessions. Please make sure to register via the official conference registration system.
+Please send an email to <andreas.riegler@fh-hagenberg.at> if you would like to participate.
 
 ## Organizers
 
