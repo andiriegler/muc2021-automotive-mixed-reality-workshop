@@ -1,2 +1,2 @@
-# mum2020-automotive-mixed-reality-workshop
-Automotive XR Workshop @ MUM 2020
+# muc2021-automotive-mixed-reality-workshop
+Automotive XR Workshop @ Mensch und Computer 2021
