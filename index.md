@@ -2,12 +2,23 @@
 
 ## News
 
+- 2021-04-18: Call for Papers released
 - 2021-04-18: Website with initial details up and running
 - 2021-03-27: Workshop proposal accepted at Mensch und Computer 2021
 
 ## Introduction
 
 With the increasing development of mixed reality (MR), the number of its purposes and applications in vehicles increases. Mixed reality may help to increase road safety, allow drivers to perform non- driving related tasks (NDRTs), and enhance passenger experiences. MR can also be helpful in the transition towards automated driving. However, there are still a number of challenges with the use of MR when applied in vehicles, and also several human factors issues need to be solved. Additionally, virtual reality (VR) has the potential to simulate mixed reality applications for HCI research, such as pedestrian and passenger experiences. In a schedule tailored to fit the requirements of a hybrid presence and online event, participants will define relevant user stories and use cases and elaborate experimental designs with measurable outcomes to contribute to the research roadmap.
+
+## Call for Papers (Submission of reflection statements, ideas, and more)
+
+The target audience for this workshop are researchers and practitioners in the Automotive UI/HCI community, who are interested to bring forward the field of AR and VR in driving applications. We invite researchers interested in this workshop to submit reflection statements using MuC's ConfTool to the workshop organizers.
+
+Submissions for the workshop should be compiled using the CHI extended abstracts (EA) format. We encourage participants to submit reflection statements contributing to one or more of the workshop goals stated under "Workshop Objectives". Successful submissions will have the potential to raise discussion, provide insights for other attendees, or illustrate problems and provide potential solutions.
+Submission deadline is June 14th, 2021. Please feel free to contact the organizers at any time.
+
+The selection of workshop participants will be done by a review process. To guarantee fair decisions, experts from the broader field of the workshop theme will serve as reviewers. Submissions need not to be anonymous.
+The program committee will review the statements, and make recommendations for acceptance or rejection. Final decisions of accepting or rejecting a paper will be made by the organizers of the workshop based on the review scores and with respect to offering all workshop participants an interesting, diversified program.
 
 ## Workshop Details
 
