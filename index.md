@@ -2,9 +2,8 @@
 
 ## News
 
-- 2020-11-17: Registration: send an email to <andreas.riegler@fh-hagenberg.at>
-- 2020-11-01: Workshop updated to virtual only participation
-- 2020-10-06: Workshop proposal accepted at MUM 2020 - the 19th International Conference on Mobile and Ubiquitous Multimedia
+- 2021-04-18: Website with initial details up and running
+- 2021-03-27: Workshop proposal accepted at Mensch und Computer 2021
 
 ## Introduction
 
@@ -12,11 +11,11 @@ With the increasing development of mixed reality (MR), the number of its purpose
 
 ## Workshop Details
 
-Attendance: Virtual via Zoom and Miro
+Attendance: Hybrid, i.e., both in presence and virtual via Zoom and Miro
 
 Duration: Half-day (approx. 4 hours)
 
-Start: Sunday, November 22, 01:30pm CET
+Start: TBD
 
 Schedule:
 
@@ -26,8 +25,7 @@ Schedule:
 - Wrap-up: We will share the findings and discuss the participants' workshop experience.
 
 ## Participate
-Every MUM 2020 participant is invited to participate in the workshop sessions. Please make sure to register via the official conference registration system.
-Please send an email to <andreas.riegler@fh-hagenberg.at> if you would like to participate.
+Every MuC 2021 participant is invited to participate in the workshop sessions. Please make sure to register via the official conference registration system.
 
 ## Organizers
 
